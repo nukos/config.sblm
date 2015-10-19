@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Origami",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Tag",
+		"TrailingSpaces"
+	]
+}
