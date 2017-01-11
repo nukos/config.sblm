@@ -1,8 +1,5 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"Abacus",
@@ -23,7 +20,6 @@
 		"Ruby Slim",
 		"SCSS",
 		"SideBarEnhancements",
-		"Tag",
 		"TrailingSpaces"
 	]
 }
