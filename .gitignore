@@ -1,4 +1,5 @@
 *.cache*
+.DS_Store
 Package Control.ca-bundle
 Package Control.ca-certs/
 Package Control.ca-list
